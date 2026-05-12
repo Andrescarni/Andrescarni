@@ -1,19 +1,26 @@
 # Hi, I'm Andrés 👋
 
-Junior Backend Developer focused on Python and FastAPI.
+AI Engineer & Backend Developer focused on building intelligent applications with LLMs and Claude API.
+
+## 🤖 Current Focus
+- Learning AI Engineering with **Claude API** from Anthropic
+- Building AI-powered applications and agents
+- Prompt Engineering & LLM optimization
+- Integrating AI into production backend systems
 
 ## 🚀 Tech Stack
-- Python
-- FastAPI
-- REST APIs
-- MySQL
-- Git
-- Linux
+- **AI/LLMs:** Claude API · Prompt Engineering · AI Agents
+- **Backend:** Python · FastAPI · REST APIs · MySQL
+- **Tools:** Git · Linux
 
-## 🎯 About me
-I’m currently studying Web Application Development (DAW) and looking for a junior backend position or internship.
+## 📁 Projects
+- **whatsapp-ai-bot** — WhatsApp automation with AI integration
+- **ai-lead-qualification** — AI-powered lead qualification system
 
-I enjoy building backend services, working with APIs, and learning how to apply AI in real-world projects.
+## 📚 Currently Learning
+- Anthropic Claude API & Prompt Engineering
+- Building AI Agents
+- LLM Application Architecture
 
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/andres-felipe-carneiro-pinto-2b03483b3
