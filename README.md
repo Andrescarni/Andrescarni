@@ -1,15 +1,15 @@
 # Hi, I'm Andrés 👋
 
-AI Engineer & Backend Developer focused on building intelligent applications with LLMs and Claude API.
+AI Engineer & Backend Developer focused on building intelligent applications with LLMs.
 
 ## 🤖 Current Focus
-- Learning AI Engineering with **Claude API** from Anthropic
+- Learning AI Engineering with **Anthropic** tools
 - Building AI-powered applications and agents
 - Prompt Engineering & LLM optimization
 - Integrating AI into production backend systems
 
 ## 🚀 Tech Stack
-- **AI/LLMs:** Claude API · Prompt Engineering · AI Agents
+- **AI/LLMs:** Prompt Engineering · AI Agents · LLM Applications
 - **Backend:** Python · FastAPI · REST APIs · MySQL
 - **Tools:** Git · Linux
 
@@ -18,7 +18,7 @@ AI Engineer & Backend Developer focused on building intelligent applications wit
 - **ai-lead-qualification** — AI-powered lead qualification system
 
 ## 📚 Currently Learning
-- Anthropic Claude API & Prompt Engineering
+- Prompt Engineering & LLM Applications
 - Building AI Agents
 - LLM Application Architecture
 
